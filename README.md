@@ -1,2 +1,2 @@
 # SnakeGame
-This is a snanke Game, You just have to run the java file if you get any error please confugure the build path once again. 
+This is a snake Game, You have to run the Java file if you get any error please configure the build path once again. 
